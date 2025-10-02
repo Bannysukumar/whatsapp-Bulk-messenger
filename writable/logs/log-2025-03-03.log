@@ -1,0 +1,8 @@
+CRITICAL - 2025-03-03 10:56:31 --> Trying to access array offset on value of type int
+#0 /www/wwwroot/thanvish.com/inc/core/Whatsapp/Config/Routes.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/thanvish.com/app/Config/Routes.php(86): require('...')
+#2 /www/wwwroot/thanvish.com/vendor/codeigniter4/framework/system/CodeIgniter.php(713): require('...')
+#3 /www/wwwroot/thanvish.com/vendor/codeigniter4/framework/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /www/wwwroot/thanvish.com/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#5 /www/wwwroot/thanvish.com/index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}

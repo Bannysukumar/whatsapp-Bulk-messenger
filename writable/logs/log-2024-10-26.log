@@ -1,0 +1,306 @@
+CRITICAL - 2024-10-26 04:10:36 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 05:36:25 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 06:31:07 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:19:26 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:20:47 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:21:43 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:21:53 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:21:56 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:21:59 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:22:02 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:20 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:23 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:25 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:26 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:27 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:29 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:30 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:31 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:39 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:42 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:46 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:50 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:27:53 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:29:38 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:29:49 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:29:51 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 08:40:04 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 09:22:25 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 10:01:44 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 12:52:16 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 12:52:19 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 12:52:21 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 12:52:24 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-26 14:00:24 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}

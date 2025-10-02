@@ -1,0 +1,44 @@
+CRITICAL - 2024-10-28 05:20:43 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-28 05:20:47 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-28 07:14:46 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-28 07:24:54 --> Attempt to read property "expiration_date" on null
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Users/Helpers/Users_helper.php(218): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /www/wwwroot/dash.wappbuzz.in/inc/core/Appearance/Filters/beforeFilter.php(134): role()
+#2 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#5 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-10-28 11:30:13 --> Cannot use a scalar value as an array
+#0 /www/wwwroot/dash.wappbuzz.in/inc/core/Plans/Filters/beforeFilter.php(59): get_blocks()
+#1 /www/wwwroot/dash.wappbuzz.in/app/Filters/MainFilter.php(130): include_once('...')
+#2 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/Filters/Filters.php(173): App\Filters\MainFilter->before()
+#3 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run()
+#4 /www/wwwroot/dash.wappbuzz.in/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#5 /www/wwwroot/dash.wappbuzz.in/index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
