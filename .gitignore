@@ -1,0 +1,12 @@
+# Large files that exceed GitHub limits
+install.zip
+Xpress Digital.zip
+Whatsapp Bulk messenger.zip
+
+# Common files to ignore
+node_modules/
+vendor/
+.env
+*.log
+.DS_Store
+Thumbs.db
