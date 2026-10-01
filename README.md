@@ -1,49 +1,89 @@
-# 403 Forbidden
+<!-- readme-seo: bannysukumar-professional-v4 -->
 
-403 Forbidden is the site whose HTML title is "403 Forbidden".
+# WhatsApp Bulk Messenger
 
-[![License](https://img.shields.io/github/license/Bannysukumar/whatsapp-Bulk-messenger)](https://github.com/Bannysukumar/whatsapp-Bulk-messenger/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/Bannysukumar/whatsapp-Bulk-messenger)](https://github.com/Bannysukumar/whatsapp-Bulk-messenger/stargazers) [![Last commit](https://img.shields.io/github/last-commit/Bannysukumar/whatsapp-Bulk-messenger)](https://github.com/Bannysukumar/whatsapp-Bulk-messenger/commits/main)
+WhatsApp Bulk Messenger is a CodeIgniter 4 PHP application whose source includes modules for bulk WhatsApp messaging, a WhatsApp API, chatbot, autoresponder, and account management.
 
 ## Overview
 
-403 Forbidden is the site whose HTML title is "403 Forbidden".
+The repository is a PHP front controller (`index.php`) with application modules under `inc/core`. WhatsApp-related modules in that tree include `Whatsapp_bulk`, `Whatsapp_api`, `Whatsapp_send_message`, `Whatsapp_chatbot`, `Whatsapp_autoresponder`, `Whatsapp_contact`, and `Whatsapp_history`.
 
+The same tree also contains account, plan, payment, and web-push modules. `composer.json` requires PHP 8 and CodeIgniter 4, and it also requires libraries for Google, Facebook, Twitter, mail, CSV, and PDF. This README only describes those modules and dependencies. It does not add behavior that is not in the source.
 
-What is actually in the repository: `.well-known/`, `app/`, `assets/`, `cdn/`, `inc/`, `vendor/`. GitHub reports the primary language as JavaScript.
+The repository homepage is https://whatsapp-bulk-messenger-two.vercel.app.
 
-Published site recorded on the repository: https://whatsapp-bulk-messenger-two.vercel.app
+## Features
+
+These names come from directories under `inc/core`:
+
+- WhatsApp bulk, send message, API, chatbot, and autoresponder modules
+- WhatsApp contacts, history, profiles, button templates, list-message templates, and poll templates
+- Account manager, plans, payments, and subscriptions
+- Web push campaign, composer, schedules, and subscriber modules
+
+## Tech Stack
+
+| Technology | Where it shows up |
+|---|---|
+| PHP 8 | `composer.json` platform and `index.php` |
+| CodeIgniter 4 | `composer.json` requirement `codeigniter4/framework` |
+| Composer | `composer.json`, `composer test` script |
+| PHPUnit | `phpunit.xml.dist` and the Composer `test` script |
+
+## Architecture
+
+Browser or deployed host → `index.php` → CodeIgniter bootstrap in `inc/` → module controllers under `inc/core`.
 
 ## Project Structure
 
 ```text
 whatsapp-Bulk-messenger/
-├── .well-known/
 ├── app/
-├── assets/
-├── cdn/
-├── inc/
-├── vendor/
-├── .htaccess
-├── .user.ini
-├── builds
+├── inc/core/
 ├── composer.json
 ├── index.php
-├── package-lock.json
 ├── phpunit.xml.dist
-├── spark
-├── test.txt
+└── spark
 ```
 
-## Getting Started
+## Prerequisites
+
+- PHP 8, as set in `composer.json`
+- Composer
+
+## Installation
 
 ```bash
 git clone https://github.com/Bannysukumar/whatsapp-Bulk-messenger.git
 cd whatsapp-Bulk-messenger
+composer install
 ```
 
-## Deployment
+`index.php` is the front controller. The repository also includes the CodeIgniter `spark` file.
 
-- The repository homepage is https://whatsapp-bulk-messenger-two.vercel.app.
+## Configuration
+
+The repository root contains a `.env` file. Do not commit real tokens or paste them into documentation. Use local environment values only on your own machine.
+
+## Usage
+
+Open the application through `index.php` on a PHP host. WhatsApp actions are implemented as separate modules under `inc/core`, including `Whatsapp_bulk` and `Whatsapp_send_message`.
+
+## API
+
+`inc/core/Whatsapp_api` contains `Controllers/Whatsapp_api.php`, `Config/Routes.php`, and `Helpers/Whatsapp_api_helper.php`. Route details are in that module's `Routes.php`.
+
+## Testing
+
+PHPUnit is configured:
+
+```bash
+composer test
+```
+
+## Demo
+
+https://whatsapp-bulk-messenger-two.vercel.app
 
 ## Contributing
 
@@ -55,8 +95,6 @@ Licensed under MIT. See [LICENSE](LICENSE).
 
 ## Author
 
-[Banny Sukumar](https://github.com/Bannysukumar)
+Banny Sukumar
 
-- GitHub: [@Bannysukumar](https://github.com/Bannysukumar)
-- Portfolio: [adepu-sukumar.vercel.app](https://adepu-sukumar.vercel.app/)
-- LinkedIn: [Adepu Sukumar](https://www.linkedin.com/in/adepu-sukumar-59b423351)
+GitHub: https://github.com/Bannysukumar
