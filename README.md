@@ -1,41 +1,62 @@
-<!-- readme-seo: bannysukumar -->
+# 403 Forbidden
 
-# Whatsapp Bulk Messenger
+403 Forbidden is the site whose HTML title is "403 Forbidden".
 
-**Whatsapp Bulk Messenger** is an open-source WhatsApp messaging utility. The code is written mainly in JavaScript and maintained by [Banny Sukumar](https://github.com/Bannysukumar), a blockchain and full-stack developer.
+[![License](https://img.shields.io/github/license/Bannysukumar/whatsapp-Bulk-messenger)](https://github.com/Bannysukumar/whatsapp-Bulk-messenger/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/Bannysukumar/whatsapp-Bulk-messenger)](https://github.com/Bannysukumar/whatsapp-Bulk-messenger/stargazers) [![Last commit](https://img.shields.io/github/last-commit/Bannysukumar/whatsapp-Bulk-messenger)](https://github.com/Bannysukumar/whatsapp-Bulk-messenger/commits/main)
 
-This repository is public so developers can read the source, reuse it under the MIT License, and send improvements.
+## Overview
 
-## About this project
+403 Forbidden is the site whose HTML title is "403 Forbidden".
 
-Whatsapp Bulk Messenger lives at [`github.com/Bannysukumar/whatsapp-Bulk-messenger`](https://github.com/Bannysukumar/whatsapp-Bulk-messenger). Use it as a starting point for a WhatsApp messaging utility, or study how the JavaScript parts fit together.
 
-## Tech stack
+What is actually in the repository: `.well-known/`, `app/`, `assets/`, `cdn/`, `inc/`, `vendor/`. GitHub reports the primary language as JavaScript.
 
-- Primary language: **JavaScript**
-- License: **MIT**
-- Maintainer: [Banny Sukumar](https://github.com/Bannysukumar)
+Published site recorded on the repository: https://whatsapp-bulk-messenger-two.vercel.app
 
-## Getting started
+## Project Structure
+
+```text
+whatsapp-Bulk-messenger/
+├── .well-known/
+├── app/
+├── assets/
+├── cdn/
+├── inc/
+├── vendor/
+├── .htaccess
+├── .user.ini
+├── builds
+├── composer.json
+├── index.php
+├── package-lock.json
+├── phpunit.xml.dist
+├── spark
+├── test.txt
+```
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Bannysukumar/whatsapp-Bulk-messenger.git
 cd whatsapp-Bulk-messenger
 ```
 
-Open the project in your editor. Install dependencies only if this repo already includes a manifest such as `package.json`, `requirements.txt`, or a `.csproj` file.
+## Deployment
+
+- The repository homepage is https://whatsapp-bulk-messenger-two.vercel.app.
 
 ## Contributing
 
-Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before you open a pull request.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Banny Sukumar.
+Licensed under MIT. See [LICENSE](LICENSE).
 
 ## Author
+
+[Banny Sukumar](https://github.com/Bannysukumar)
 
 - GitHub: [@Bannysukumar](https://github.com/Bannysukumar)
 - Portfolio: [adepu-sukumar.vercel.app](https://adepu-sukumar.vercel.app/)
 - LinkedIn: [Adepu Sukumar](https://www.linkedin.com/in/adepu-sukumar-59b423351)
-- ORCID: [0009-0007-9766-6579](https://orcid.org/0009-0007-9766-6579)
